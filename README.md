@@ -21,7 +21,7 @@ This week I gradually started to enter the state of learning. I was very excited
 
 The folding screen mobile phone has two states, open and folded. I took measurements on my phone, which will help me in the later design. I predict that this mobile phone stand should be able to support two types of mobile phones at the same time.
 
-#### Market Trends
+### Market Trends
 
 More and more folding screen mobile phones have appeared on the market. Perhaps this mobile phone stand will bring convenience to people.
 
