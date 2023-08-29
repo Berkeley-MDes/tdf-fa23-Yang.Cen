@@ -25,6 +25,8 @@ The folding screen mobile phone has two states, open and folded. I took measurem
 
 More and more folding screen mobile phones have appeared on the market. Perhaps this mobile phone stand will bring convenience to people.
 
+![Demonstration of my phone](weekly-reports/微信图片_20230829022141.jpg)
+
 ## Laser Cutter Experience
 
 At the same time, I also tried to use a laser cutter to cut the model of the mobile phone holder on the wooden board. It was not a perfect attempt, because the laser cutting machine did not completely cut the wood due to the adjustment of the parameters.
