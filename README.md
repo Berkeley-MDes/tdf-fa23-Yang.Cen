@@ -25,7 +25,7 @@ The folding screen mobile phone has two states, open and folded. I took measurem
 
 More and more folding screen mobile phones have appeared on the market. Perhaps this mobile phone stand will bring convenience to people.
 
-![Demonstration of my phone](weekly-reports/微信图片_20230829022141.jpg)
+![Demonstration of my phone](weekly-reports/微信图片_20230828145426.png)
 
 ## Laser Cutter Experience
 
