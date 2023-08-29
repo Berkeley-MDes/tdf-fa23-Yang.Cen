@@ -32,7 +32,7 @@ At the same time, I also tried to use a laser cutter to cut the model of the mob
 ### Lessons Learned
 
 So, I had to use a utility knife to remove and polish the wood, but I think it was a good lesson.
-！[Phone Stand]（）
+！[Phone Stand]（weekly-reports/微信图片_20230829022141.jpg）
 
 
 
