@@ -7,11 +7,17 @@ In the past one week (including an excited three-day weekend), I completed the 3
 ## Demonstration of the Ideal Phone Stand
 
 Also this week, I sketched an ideal phone stand. I hope there is a phone stand that can support a foldable phone in two different folded states. I used Rhino to do some simple demonstrations.I'm a model enthusiast for warships, and I took inspiration from a photo-etched structure I recently assembled, and made a simple demo on Rhino.
+![Demonstration of the Ideal Phone Stand](weekly-reports/微信图片_20230906150917.jpg)
+![Inspiration](weekly-reports/微信图片_20230906150914.jpg)
 
 ## Learning Challenges with Grasshopper
 
 In the process of learning Grasshopper, I still have no way to fully understand the relationship between different batteries. At the current stage, Rhino and Fusion 360 are still my main tools for modeling.Maybe these tools are more useful for products without complex structures. However, I think what I learned in Grasshopper, such as the texture or grid of the surface of the object, will help me build more diverse products in the future.
-
+![Grasshopper 1](weekly-reports/1.png)
+![Grasshopper 2](weekly-reports/2.png)
+![Grasshopper 3](weekly-reports/3.png)
+![Grasshopper 4](weekly-reports/Snipaste_2023-09-06_14-59-14.png)
+![Grasshopper 5](weekly-reports/WeChat_20230906170417.mp4)
 
 
 
