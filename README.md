@@ -2,11 +2,11 @@
 
 ## Summary of the week
 
-In the past one week (including an excited three-day weekend), I completed the 3D printing training online, and learned about Grasshopper tutorial by watching Youtube videos. This gave me a better understanding of Grasshopper, even though I still can't quite accept it as my main tool when designing.
+In the past one week (including an excited three-day weekend), I completed the 3D printing training online, and learned about Grasshopper tutorial by watching Youtube videos. This gave me a better understanding of Grasshopper, even though I still can't quite accept it as my main tool when designing. 
 
-## Demonstration of the Ideal Phone Stand
+## Demonstration of the Ideal Phone Stand (My Rhino crashed when I tried to apply the grid texture onto its surface so I do not have a model yet)
 
-Also this week, I sketched an ideal phone stand. I hope there is a phone stand that can support a foldable phone in two different folded states. I used Rhino to do some simple demonstrations.I'm a model enthusiast for warships, and I took inspiration from a photo-etched structure I recently assembled, and made a simple demo on Rhino.
+Also this week, I sketched an ideal phone stand. I hope there is a phone stand that can support a foldable phone in two different folded states. I used Rhino to do some simple demonstrations.I'm a model enthusiast for warships, and I took inspiration from a photo-etched structure I recently assembled.
 ![Demonstration of the Ideal Phone Stand](weekly-reports/微信图片_20230906150917.jpg)
 ![Inspiration](weekly-reports/微信图片_20230906150914.jpg)
 
