@@ -1,4 +1,19 @@
-# Hello DES INV 202 Student!
+# Report 2 - Week of 09/07/2023 #
+
+## Summary of the week
+
+In the past one week (including an excited three-day weekend), I completed the 3D printing training online, and learned about Grasshopper tutorial by watching Youtube videos. This gave me a better understanding of Grasshopper, even though I still can't quite accept it as my main tool when designing.
+
+## Demonstration of the Ideal Phone Stand
+
+Also this week, I sketched an ideal phone stand. I hope there is a phone stand that can support a foldable phone in two different folded states. I used Rhino to do some simple demonstrations.I'm a model enthusiast for warships, and I took inspiration from a photo-etched structure I recently assembled, and made a simple demo on Rhino.
+
+## Learning Challenges with Grasshopper
+
+In the process of learning Grasshopper, I still have no way to fully understand the relationship between different batteries. At the current stage, Rhino and Fusion 360 are still my main tools for modeling.Maybe these tools are more useful for products without complex structures. However, I think what I learned in Grasshopper, such as the texture or grid of the surface of the object, will help me build more diverse products in the future.
+
+
+
 
 # Report 1 - Week of 08/21/2023 #
 
