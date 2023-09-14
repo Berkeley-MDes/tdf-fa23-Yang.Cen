@@ -3,16 +3,15 @@
 ## Design Concept Completion
 
 This week, I completed the design concept, which was presented by hand drawing.
-![Grasshopper 1](weekly-reports/1.png)
-![Grasshopper 2](weekly-reports/2.png)
+![Drwaing](weekly-reports/微信图片_20230913223723.jpg)
 
 ## Modeling with Grasshopper and Rhino
 
 I also completed modeling with Grasshopper and Rhino. Then, I used a laser cutter to cut out different panels on a large piece of acrylic board.
-![Grasshopper 1](weekly-reports/1.png)
-![Grasshopper 2](weekly-reports/2.png)
-![Grasshopper 3](weekly-reports/3.png)
-![Grasshopper 4](weekly-reports/Snipaste_2023-09-06_14-59-14.png)
+![Grasshopper 1](weekly-reports/grasshopper.png)
+![Model 1](weekly-reports/微信图片_20230914002350.jpg)
+![Model 2](weekly-reports/微信图片_20230914002337.jpg)
+![Grasshopper 2](weekly-reports/Snipaste_2023-09-14_00-21-04.png)
 
 ## Video Demonstration on YouTube
 
