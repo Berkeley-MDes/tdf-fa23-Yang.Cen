@@ -4,7 +4,7 @@
 
 I finally had a short break after the project. This week's work was very easy. I set up my Photon 2 at home. Thanks to my previous experience with Arduino, I didn't find this setup to be a challenge. Even though I am familiar with such setups, I still chose to follow some tutorials to make this project more enjoyable! I have not yet completed the final step, which involves connecting to the school's IOT network. However, I plan to finish this before the upcoming class.
 
-![IOT SetUp1](weekly-reports/week 5 report/IOT set up 2.jpg)
+![IOT SetUp1](tdf-fa23-Yang.Cen/weekly-reports/week 5 report/IOT set up 1.png)
 ![IOT SetUp2](weekly-reports/week 5 report/IOT set up 1.png)
 
 ## Reflecting on the Importance of IOT Skills
