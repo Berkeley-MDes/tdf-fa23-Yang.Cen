@@ -2,7 +2,7 @@
 
 ## Testing out Photon 2 at Home
 
-This week we did some simple demos, it wasn't difficult, but it was a lot of fun, I used phaton 2 to make a simple flashing light. 
+This week we did some simple demos, it wasn't difficult, but it was a lot of fun, I used phaton 2 to make a simple flashing light. Since I have some experience with arduino, so I had a lot of fun discussion this with my friends on class. I have also been to the MDes website to check out previous student works, they are amazing! and I wish to make something cool like them
 ![IOT SetUp1](weekly-reports/微信图片_20230927020229.jpg)
 ![IOT SetUp2](weekly-reports/微信图片_20230927020232.jpg)
 
