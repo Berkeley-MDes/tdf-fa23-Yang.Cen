@@ -3,8 +3,8 @@
 ## Testing out Photon 2 at Home
 
 This week we did some simple demos, it wasn't difficult, but it was a lot of fun, I used phaton 2 to make a simple flashing light. 
-![IOT SetUp1](weekly-reports/微信图片_20230920135022.jpg)
-![IOT SetUp2](weekly-reports/微信图片_20230920134941.png)
+![IOT SetUp1](weekly-reports/微信图片_20230927020229.jpg)
+![IOT SetUp2](weekly-reports/微信图片_20230927020232.jpg)
 
 ## Team Topics
 I also chose the theme of the future group, and I think it is challenging to carry out complex product functions through modules. I am looking forward to the future group cooperation!
