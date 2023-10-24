@@ -3,9 +3,17 @@
 
 # Report 7 - Week of 10/11/2023
 
+## Connecting 2 photons
+
+We had trouble connecting 2 photon devices, so we asked someone for help, and it eventually works
+
 ## Get our hands dirty! 
 
-Now we have a amatuer idea and we should 
+Now we have a developed idea and we should move forward to design. The idea is to have a photo-centered system connected with an inflatable life vest. When the heartbeat monitor detects the diver's heartbeat is 20 times per minute below average, it will send a notification to the diver. If the diver does not turn off the notification in 5 seconds, the life vest will be inflated. Eventually, help the diver to resurface. 
+
+## Selecting inflatable life vest on the market
+
+We have found some well developed inflatable life vest on amazon, they are expensive but we got them! 
 
 
 # Report 6 - Week of 10/04/2023
