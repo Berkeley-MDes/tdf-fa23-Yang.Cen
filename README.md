@@ -1,10 +1,26 @@
-# Report 5 - Week of 10/18/2023
+# Report 8 - Week of 10/18/2023
 
 
-# Report 5 - Week of 10/11/2023
+# Report 7 - Week of 10/11/2023
+
+## Get our hands dirty! 
+
+Now we have a amatuer idea and we should 
 
 
 # Report 6 - Week of 10/04/2023
+
+## Ideation and New Team! 
+
+This week, luckily, I got my new team and we are friend with each other. We started ideation and finally zoomed into one interesting topic- free diving. I love marine environment that is why we choose the idea. Instead of designing something for user group that we are not familiar with, we want to focus on something we know and make possitive changes to their lives. 
+
+## So, what is the problem? 
+
+Free diving, has one of the highest death rates among other marine sports. There are 10000 free divers in the United States, and every year, 20 free divers who have lost their lives, which is 1/500 of the free diving community. BO, which stands for Black Out, is the No.1 cause of death for Free Divers. Among 400 cases of BO accidents, 75% of divers lost their lives. When you encounter a BO, your teammate must rescue you immediately, or it might lead to irreversible damage, or death. You cannot self-rescue.
+
+## How to solve the problem? 
+
+We have studied from Avalanche Backpacks, which is a backpack skiier use when they encounter a avalanche. The airbag inside the bag will be inflated and help the user to flow on the surface of the snow. Maybe we can study from it? 
 
 
 # Report 5 - Week of 09/27/2023
