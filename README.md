@@ -1,3 +1,11 @@
+# Report 8 - Week of 10/25/2023
+
+## Previous projects
+Now I have finished two projects so far. In my first project, it is a personal project, I used Grasshopper to design a phone stand for foldable phone users, which is also my first time using Grasshopper, excited but also complicated. Grasshopper enabled me to create designs and customize the stand to meet the requirements of different phone users. Then in the second project, it was an team effort, where we developed a life vest called "pufferfish” for free divers by utilizing the photon 2 platform. In both projects, I have experienced using some interesting tools and learned from them
+
+## Speculation for the third project
+As we transition to our third project involving AI applications, I'm eager to explore and integrate the various APIs I've previously encountered. I believe harnessing the power of AI can introduce innovative solutions and redefine the way we approach design challenges in the realm of emerging technologies.
+
 # Report 8 - Week of 10/18/2023
 Last week before the final presentation! All team members gathered together and we are filming and editing our presentation video, we want audience to have fun
 ![Pufferfish](weekly-reports/16.jpg)
