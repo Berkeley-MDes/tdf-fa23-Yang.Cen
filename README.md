@@ -1,17 +1,23 @@
 # Report 8 - Week of 10/18/2023
 Last week before the final presentation! All team members gathered together and we are filming and editing our presentation video, we want audience to have fun
-
+![Pufferfish](weekly-reports/16.jpg)
 ## Final Product Test
 
 Weilong and Yani debugged our product this week, thanks to their contribution. It is a product ready to go. The monitor will sense the heart rate of the diver, once he/she has a heart rate 20 times per min below his/her average heart rate. The device will vibrate and notify the diver. If the diver does not make a response within 5 seconds, which means that the diver might encountered a BO-Blackout, the life vest will be inflated and bring the diver back to the water surface. I think the idea of giving notification through vibration is a good idea, cause it can reduce the chance of error warning.
+
 ![Pufferfish](weekly-reports/8.png)
+
 ## Video Editing
 
 Product video is always a lot of fun. Started with filming process, I wear the life vest and inflated it! It will definately bring my head to the surface of the water because it is really tight and almost chocked me. And more importantly it is one time use, yes! 90 dollar for just single use! That is why I said it is a really expensive project. Carina and I edit the video and combine different clips together. 
 ![Pufferfish](weekly-reports/11.jpg)
+![Pufferfish](weekly-reports/12.jpg)
+![Pufferfish](weekly-reports/13.jpg)
 ## My Contribute to the team and self-reflection
 During the ideation phase, I believe my deep understanding of marine dynamics offered a lot of help in shaping the theme of our pufferfish rescuer project, especially in researching the challenges that free divers are facing and what similar product designers have created on the market. Although I am unfamiliar with the Photon microcontroller, I collaborated with my talented teammates, successfully integrating my marine expertise with their technical skills to enhance the functionality and responsiveness of our pufferfish rescuer. Last but not least, I took the responsibility of the video editing and shooting processes.
 During the ideation phase, I believe my deep understanding of marine dynamics offered a lot of help in shaping the theme of our pufferfish rescuer project, especially in researching the challenges that free divers are facing and what similar product designers have created on the market. Although I am unfamiliar with the Photon microcontroller, I collaborated with my talented teammates, successfully integrating my marine expertise with their technical skills to enhance the functionality and responsiveness of our pufferfish rescuer. Last but not least, I took the responsibility of the video editing and shooting processes.
+![Pufferfish](weekly-reports/14.jpg)
+![Pufferfish](weekly-reports/15.jpg)
 
 ## Speculations 
 ### Human Experience 
@@ -20,17 +26,24 @@ The introduction of our pufferfish rescue vest will bring revolution to the divi
 The invention of our pufferfish rescuer means the coming of a new era in marine sports engineering advancements. A primary challenge is developing a heart rate monitor that's accurate under marine-environment. It should prevent false inflations while detecting heart rate anomalies. That is why we have the vibration warning system on pufferfish, you will have 5 seconds to react before false inflations. And the inflation mechanism, is well-known as one of the safest mechanism on the earth, since people are using that on the airplane. The material must be durable, yet flexible, to handle underwater pressures and ensure diver mobility. Ergonomic, a word that has been broadly discussed for free divers. Our pufferfish rescuer should be user-centered, which mean that it should accommodate various diver sizes and potentially customized requirements based on conditions or user needs. As the vest gains popularity and diving evolves, engineers must continually enhance its design to maintain safety standards.
 ### AI Tech
 We believe machine learning can bring great contribution into the system of Pufferfish, it would enhance its safety features. By utilizing real time data analysis, like how an Apple Watch works, Pufferfish could proactively identify issues by comparing a divers vital signs with a huge amount of diving related data. This data would be stored offline and could potentially detect blackouts. The machine learning model would continuously learn from each dive gaining insights into user patterns and minimizing mistakes. If we also incorporated sensors that measure depth, pressure and temperature (I've actually experimented with this in one of my projects although it wasn't as accurate as the one) the AI system would provide a comprehensive overview of a divers physical condition. In case of emergencies the Pufferfish system could send real time distress signals along, with data to aid in rescues (including GPS information). After each dive Puffer AI would review your diving data, and provide analysis and updates. Pufferfish is a diving mentor enriching your diving experience.
-
+![Pufferfish](weekly-reports/24.jpg)
+![Pufferfish](weekly-reports/25.jpg)
+![Pufferfish](weekly-reports/26.jpg)
+![Pufferfish](weekly-reports/27.jpg)
 # Report 7 - Week of 10/11/2023
 
 ## Connecting 2 photons
 
 We had trouble connecting 2 photon devices, so we asked someone for help, and it eventually works. In case of our project, I think it will be easier to use ardduino since it does not really need to connect with the internet. 
-
+![Pufferfish](weekly-reports/17.jpg)
+![Pufferfish](weekly-reports/18.jpg)
 ## Get our hands dirty! 
 
 Now we have a developed idea and we should move forward to design. The idea is to have a photo-centered system connected with an inflatable life vest. When the heartbeat monitor detects the diver's heartbeat is 20 times per minute below average, it will send a notification to the diver. If the diver does not turn off the notification in 5 seconds, the life vest will be inflated. Eventually, help the diver to resurface. 
-
+![Pufferfish](weekly-reports/19.jpg)
+![Pufferfish](weekly-reports/20.jpg)
+![Pufferfish](weekly-reports/21.jpg)
+![Pufferfish](weekly-reports/22.jpg)
 ## Selecting inflatable life vest on the market
 
 We have found some well developed inflatable life vest on amazon, they are expensive but we got them! 
