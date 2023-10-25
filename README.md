@@ -2,7 +2,7 @@
 Last week before the final presentation! All team members gathered together and we are filming and editing our presentation video, we want audience to have fun
 
 ## Final Product Test
-
+![Pufferfish](weekly-reports/8.png)
 Weilong and Yani debugged our product this week, thanks to their contribution. It is a product ready to go. The monitor will sense the heart rate of the diver, once he/she has a heart rate 20 times per min below his/her average heart rate. The device will vibrate and notify the diver. If the diver does not make a response within 5 seconds, which means that the diver might encountered a BO-Blackout, the life vest will be inflated and bring the diver back to the water surface. I think the idea of giving notification through vibration is a good idea, cause it can reduce the chance of error warning.
 
 ## Video Editing
