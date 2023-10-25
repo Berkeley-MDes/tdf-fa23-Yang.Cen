@@ -1,4 +1,4 @@
-# Report 8 - Week of 10/25/2023
+# Report 9- Week of 10/25/2023
 
 ## Previous projects
 Now I have finished two projects so far. In my first project, it is a personal project, I used Grasshopper to design a phone stand for foldable phone users, which is also my first time using Grasshopper, excited but also complicated. Grasshopper enabled me to create designs and customize the stand to meet the requirements of different phone users. Then in the second project, it was an team effort, where we developed a life vest called "pufferfish” for free divers by utilizing the photon 2 platform. In both projects, I have experienced using some interesting tools and learned from them
