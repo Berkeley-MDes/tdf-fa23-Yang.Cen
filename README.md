@@ -12,27 +12,25 @@ I have started working on the model. Created my account on ZeroWidth and follow 
 
 ## LLM Project Finished
 I added 7 complete chunks of information, which includes my previous Project descriptions on My Portfolio Website and of course our weekly report
-
+![5](weekly-reports/week 5 report/5.jpg)
 ## Study of similarity threshold
 A higher similarity threshold means that the information I input will be more similar to the gpt's answer, which I want to avoid. I want people who ask questions using my mini me to get more diverse responses than just what I type in information chunks.
 
 ## Result of Question 1 
 It mentioned Grasshopper, Photon, and AI
-
+![1](weekly-reports/week 5 report/1.jpg)
 ## Result of Question 2
 It picked Pufferfish, which is the Photon Project. Based on the information I had on weekly report, it pointed that our product is currently single-use product that cost 90 dollars, and it encouraged me to think about the reusability
-
+![2](weekly-reports/week 5 report/2.jpg)
 ## Result of Question 3
 I added a bunch of other ocean related projects, but I only input the project descriptions in each chunk, so it ended up picking pufferfish again since pufferfish projects has the longest text
-
+![3](weekly-reports/week 5 report/3.jpg)
 ## Result of Question 4
 Since in the background setting, I am the emperor, so it returned a bunch of compliments
-
+![4](weekly-reports/week 5 report/Snipaste_2023-11-16_13-38-59.jpg)
 
 ## Challenges
 For this project I chose 01-Triceratops. First of all, it was a very interesting project, and I enjoyed the process of optimizing the model. However, I also consider that this is my first formal project editing LLM, and I hope to preliminatively understand the Fine-Tuning process through this project, such as learning the impact of similarity threshold and token length on the result, so I choose level 1- Triceratops. I completed a series of experiments with ZeroWidth following the steps and video tutorials given in the bcourse to understand the impact of ZeroWidth instructions and information on Fine-Tuning, but after I completed the training I realized that Project 2 - Puffer Fish Rescuer has the longest text description among all the information chunks, far longer than other projects, which also led to the fact that when I was asked about my past projects, GPT knew more about Project 2 than other projects, and always selected Project 2 as an example. To solve this problem I added more information to other projects, for example, I added some textual descriptions of the research process from previous portfolios to my database.
-
-
 
 ## Speculations 
 I think ZeroWidth can greatly simplify the college admissions process. For example, if a student wants to apply for Master of Design programs in multiple schools, like UCB, Harvard, and CMU, he only needs to create his Mini Me on ZeroWidth, add his portfolio and CV and other personal information to the database, and choose the more High similarity threshold. Then admissions officers from different schools can get to know the student more objectively just by asking Mini Me. Because my roommate is a mechanical engineering student at UC Berkeley, I discussed with him about the applications and prospects of ZeroWidth and other LLMs in the engineering field. His answer surprised me- Almost all mechanical engineers are learning AI, because it is disruptive to the field of mechanical engineering, and AI is more flexible and efficient. Taking ZeroWidth as an example, it can greatly reduce the workload of mechanical engineers. When testing the feasibility of a project, engineers can feed all the data to ZeroWidth and ask a series of questions. If it is on GPT, they will have to feed the data everytime they started a conversation.
@@ -47,7 +45,7 @@ I also hope to gradually improve my Mini Me and add more information about mysel
 ## Large Language Model
 This week we started our third project-Mini Me, by using ZeroWidth, a LLM build based on gpt 4.0 
 I beleive it will be a new advanture for me. I am familiar with GPT but I am not really familiar with fine turning. So lets see
-
+![6](weekly-reports/week 5 report/6.jpg)
 ## Hand On Practices
 I have started working on the model. Created my account on ZeroWidth and follow the instruction on the model. By inputting some instructional information about me (Yang Cen), such as my designer’s weekly report and introduction of past works, others can ask some questions about my works through ZeroWidth. I think it is a very good platform based on gpt 4.0, which helped me get familiar with LLM training.
 
