@@ -1,11 +1,18 @@
 # Report 12- Week of 11/16/2023
 
-## Large Language Model
-This week we started our third project-Mini Me, by using ZeroWidth, a LLM build based on gpt 4.0 
-I beleive it will be a new advanture for me. I am familiar with GPT but I am not really familiar with fine turning. So lets see
+## Toward Project 4
+Now it is time to use what I have learned from the past 3 projects to create a new project 
+Project 4 summary: A while back, a friend of mine who lives in downtown Berkeley was burglarized. The University of California, Berkeley is known as one of the most dangerous universities in the United States, with countless criminal incidents occur every day. I want to design a security gate to protect private property. I believe this will be a great opportunity for me to practice skills that I have learned from TDF class. I will consider using grasshopper to make the physical model of my door lock, and then I will use API and Particle system for face recognition and door lock control system.
 
-## Hand On Practices
-I have started working on the model. Created my account on ZeroWidth and follow the instruction on the model. 
+## Research Plan 
+1. Grasshopper Modeling：I will combine what I learned from project 1 and design the system of my physical model. Using Grasshopper allows me to make small edits to my model at the end.
+2. AI Technology：I have started my research on Facial Recognition APIs from Baidu AI platform, I am also thinking of using LLM as the vocal assistant.
+3. Particle System：I will explore how to use Particle system to control the door lock. More importantly, I want to study how it works together with different AI techs.
+4. Design Analysis：Empathy will be the core idea of this project, because I want to solve the actual problem by my design.
+
+## Current Work 
+In present, I have completed the market research, interviewed the friends who suffered the burglary incident, and made a complete user flow. I also began to learn the face recognition API in Baidu AI
+
 
 
 # Report 11- Week of 11/09/2023
