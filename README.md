@@ -1,3 +1,34 @@
+# Report 12- Week of 11/16/2023
+
+## Large Language Model
+This week we started our third project-Mini Me, by using ZeroWidth, a LLM build based on gpt 4.0 
+I beleive it will be a new advanture for me. I am familiar with GPT but I am not really familiar with fine turning. So lets see
+
+## Hand On Practices
+I have started working on the model. Created my account on ZeroWidth and follow the instruction on the model. 
+
+
+# Report 11- Week of 11/09/2023
+
+## LLM Project Finished
+This is a project based on ZeroWidth. By inputting some instructional information about me (Yang Cen), such as my designer’s weekly report and introduction of past works, others can ask some questions about my works through ZeroWidth. I think it is a very good platform based on gpt 4.0, which helped me get familiar with LLM training.
+![image](https://github.com/Berkeley-MDes/tdf-fa23-Yang.Cen/assets/143210496/67904697-e2a3-417d-90cc-b1ce6b13209c)
+
+
+## Hand On Practices
+I have started working on the model. Created my account on ZeroWidth and follow the instruction on the model. 
+
+
+# Report 10- Week of 11/02/2023
+
+## Large Language Model
+This week we started our third project-Mini Me, by using ZeroWidth, a LLM build based on gpt 4.0 
+I beleive it will be a new advanture for me. I am familiar with GPT but I am not really familiar with fine turning. So lets see
+
+## Hand On Practices
+I have started working on the model. Created my account on ZeroWidth and follow the instruction on the model. 
+
+
 # Report 9- Week of 10/25/2023
 
 ## Previous projects
