@@ -3,7 +3,7 @@
 ## Toward Project 4
 Now it is time to use what I have learned from the past 3 projects to create a new project 
 Project 4 summary: A while back, a friend of mine who lives in downtown Berkeley was burglarized. The University of California, Berkeley is known as one of the most dangerous universities in the United States, with countless criminal incidents occur every day. I want to design a security gate to protect private property. I believe this will be a great opportunity for me to practice skills that I have learned from TDF class. I will consider using grasshopper to make the physical model of my door lock, and then I will use API and Particle system for face recognition and door lock control system.
-
+![weekly report](weekly-reports/Snipaste_2023-11-16_14-22-00.jpg)
 ## Research Plan 
 1. Grasshopper Modeling：I will combine what I learned from project 1 and design the system of my physical model. Using Grasshopper allows me to make small edits to my model at the end.
 2. AI Technology：I have started my research on Facial Recognition APIs from Baidu AI platform, I am also thinking of using LLM as the vocal assistant.
