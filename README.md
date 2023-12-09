@@ -41,7 +41,14 @@ In conclusion, we have explored how to use ChatGPT to self program, and how to c
 In this project, I will be responsible for the production of 3D models, the design and assembly of Microcontroller and programming on Particle IDE (including the design of the robot's movements, each movement corresponds to a different number), Weilong Gao will be responsible for the AI voice For the assistant part (including calling APIs, training models, etc.), and sending digital instructions to Photon 2, we will be responsible for completing the video production, and Weilong Gao will be responsible for the pdf production.
 
 ## Model Making 
+根据上周在rhino上面设计的3D模型，我在adobe AI上画出了2D的图纸，并且选择使用laser cutter的方式来制作实体。感谢项目一，我已经可以完美的操控laser cutter了。我使用的是1/8 in和1/16 in厚度的透明亚克力板。我惊讶的发现坚硬的透明亚克力板经过精细的laser cutter雕刻也可以变得“柔软”！
+我没有使用3D打印的原因是：
+1. 我想要一个透明的模型，以帮助使用者看到内部的机械结构
+2. jacobs maker space的3D打印机打印出来的模型并不够精致
+3. 3D打印机会非常的耗时，这对需要不断修改模型的我们来说并不友好
 
+## Test on Arduino Nano
+即使我最终决定使用的是Particle Photon 2, 但是在一开始的测试阶段我使用的是Arduino Nano,因为Arduino Nano和Photon2在某种程度上非常的相似。
 
 
 # Report 13- Week of 11/23/2023 Thanksgiving Week
