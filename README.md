@@ -42,23 +42,23 @@ In conclusion, we have explored how to use ChatGPT to self program, and how to c
 In this project, I will be responsible for the production of 3D models, the design and assembly of Microcontroller and programming on Particle IDE (including the design of the robot's movements, each movement corresponds to a different number), Weilong Gao will be responsible for the AI voice For the assistant part (including calling APIs, training models, etc.), and sending digital instructions to Photon 2, we will be responsible for completing the video production, and Weilong Gao will be responsible for the pdf production.
 
 ## Model Making 
-根据上周在rhino上面设计的3D模型，我在adobe AI上画出了2D的图纸，并且选择使用laser cutter的方式来制作实体。感谢项目一，我已经可以完美的操控laser cutter了。我使用的是1/8 in和1/16 in厚度的透明亚克力板。我惊讶的发现坚硬的透明亚克力板经过精细的laser cutter雕刻也可以变得“柔软”！
-我没有使用3D打印的原因是：
-1. 我想要一个透明的模型，以帮助使用者看到内部的机械结构
-2. jacobs maker space的3D打印机打印出来的模型并不够精致
-3. 3D打印机会非常的耗时，这对需要不断修改模型的我们来说并不友好
+Based on the 3D model I designed on Rhino last week, I drew a 2D drawing on Adobe AI and chose to use laser cutter to create the physical model. Thanks to Project 1, I can now control the laser cutter perfectly. I used 1/8 in and 1/16 in thick clear acrylic sheets. I was surprised to find that the hard transparent acrylic sheets can also become "soft" after being engraved with a fine laser cutter!
+The reasons why I don’t use 3D printing are:
+1. I want a transparent model to help users see the internal mechanical structure
+2. The models printed by Jacobs Maker Space’s 3D printer are not refined enough.
+3. 3D printing will be very time-consuming, which is not friendly to us who need to constantly modify the model.
 
 ## Test on Arduino Nano
-即使我最终决定使用的是Particle Photon 2, 但是在一开始的测试阶段我使用的是Arduino Nano,因为Arduino Nano和Photon2在某种程度上非常的相似。我使用了两个SG90 9G 的servo, 以及一个小型OLED屏幕。在实验的过程中我发现2个SG90 servo需要5v的电压来支持运转，但是particle photon 2 只能提供3.3v的电压，因此我在jacobs material store购买了额外的电源，四节AA型号的电池。但是OLED屏幕依旧是连接在3.3v的接脚上的。在使用Arduino Nano的测试中，我获得了成功，servo和OLED都在我的指示下正常工作
+Even though I finally decided to use the Particle Photon 2, I used an Arduino Nano during the initial testing phase because the Arduino Nano and Photon 2 are very similar to some extent. I used two SG90 9G servos, and a small OLED screen. During the experiment, I found that two SG90 servos require a voltage of 5v to support operation, but the particle photon 2 can only provide a voltage of 3.3v, so I purchased an additional power supply from Jacobs material store, four AA batteries. But the OLED screen is still connected to the 3.3v. In tests using Arduino Nano I had success, both servos and OLED worked fine under my instructions
 
 ## Switch to Particle Photon 2
-因为我们的机器人最终需要通过网络连接到我们的AI模型，因此photon2才是我们最终决定使用的microcontroller。在连接上，photon 2和Arduino nano非常的相似，但是我还是根据photon 2的设计图纸对连接做了一些改动。在代码的部分，我发现arduino 的代码和photon代码的底层逻辑虽然是一样的，但是还是要做不少的修改，在zoey的帮助下，我成功找到了对应的library。我认为photon 2对比arduino的优势在：
-1. 可以联网，这允许我们用photon 2制作真正的IoT设计
-2. Particle IDE比Aruino IDE设计的更加好
-3. 算力更强
+Because our robot ultimately needs to be connected to our AI model through the network, photon 2 is the microcontroller we finally decided to use. In terms of connection, photon 2 and Arduino nano are very similar, but I still made some changes in the connection based on the design drawings of photon 2. In the code part, I found that although the underlying logic of the arduino code and the photon code are the same, a lot of modifications are still needed. With the help of Zoey, I successfully found the corresponding library. I think the advantages of photon 2 compared to arduino are:
+1. Can be connected to the Internet, which allows us to use photon 2 to make real IoT designs
+2. Particle IDE is better designed than Aruino IDE
+3. Stronger computing power
 
 ## Combining Model with Microcontroller 
-Now it is time to connect two parts together! 我将servo和OLED屏幕安装在模型上预设的卡槽中，组装完的模型还是很精致的，透明的模型允许我们看到模型的内部！因为当天是我妈妈的生日，我在OLED屏幕上显示了Happy Birthday Mom, 我妈妈看到了后非常的高兴。
+Now it is time to connect two parts together! I installed the servo and OLED screen in the preset slots on the model. The assembled model is still very delicate. The transparent model allows us to see the inside of the model! Because it was my mother’s birthday that day, I displayed Happy Birthday Mom on the OLED screen. My mother was very happy when she saw it.
 
 
 # Report 13- Week of 11/23/2023 Thanksgiving Week
