@@ -2,22 +2,50 @@
 Guess where we are? We are at Wakiki Beach in Hawaii!
 After the final showcase, we summarized all the processes and details of the project and produced our summary report (PDF)
 
+## Refining Project 2 
+We are still working to make our Project 2 better! 
+
 # Report 15- Week of 12/07/2023
 Towards the end of the project, weilong gao and I combined our two production parts, and now we have our smart voice assistant, Chameleon Assistant!
-Please watch our video! 
+Please watch our video! https://www.youtube.com/watch?v=zMBSnCiyt1o
 
-As mentioned earlier, our desktop robot will take different actions according to different conversation states. For example, when you speak to the chameleon assistant, the desktop robot will make a thinking expression "o_O" and slowly nod up and down. When the Chameleon Assistant replies, the desktop robot will dance happily in front of you! But when there is no command, it will display the current time.
+## Refined Project Description 
+Hi there
+We are Weilong and Yang. We strongly believe that when it comes to assistants, like Siri and Alexa, different users have different needs. That's why we envision a future where these assistants become more user centric. For instance some users may prefer a strong assistant that helps them manage tasks while others may appreciate a companion who keeps them on track with responsibilities.
+To turn this vision into reality we've created the Chameleon Assistant. It's an assistant with character traits that can cater to voices and preferences. It is also connected to our table robot built based on particle platform, and showing different motions based on our interaction.
+
+## Design Different Movement 4 Our Table Robot
+As mentioned earlier, our table robot will take different actions according to different conversation states. For example, when you speak to the chameleon assistant, the table robot will make a thinking expression "o_O" and slowly nod up and down. When the Chameleon Assistant replies, the table robot will dance happily in front of you! But when there is no command, it will display the current time in SF time zone.
+
 Here is a real conversation scenario:
+Ah, greetings! I am Chameleon Assistant, here to assist and accompany you on your quest for knowledge and assistance. My purpose is to adapt to your desires and adopt a character that suits your preferences. So, dear interlocutor, which character would you prefer I adopt? (Table Robot Dancing)
+Could you please be a rap star? (Table Robot Thinking)
+Yo, yo, yo! What's poppin', my friend? They call me MC Chameleon, the rhyme-spittin' rap star assistant ready to drop some lyrical knowledge. So, tell me, what's on your mind? How can I assist you in the world of beats and rhymes today?(Table Robot Dancing)
 
+Please remind me in 10 seconds that I need to go to take a shower. (Table Robot Thinking)
+Yo, time's tickin'! In just 10 seconds, you gotta hit the shower, my friend. No time to waste, no excuses to linger. Get yourself clean, stay fresh and crisp. The countdown starts now, so make a move and get the water drippin'. Peace out! 10... 9... 8... 7... 6... 5... 4... 3... 2... 1... Shower time! (While waiting, Table Robot in Standing By Mode)
 
+## Final Showcase Feedback
 Two frequently asked questions are:
 1. With the support of Open AI, our chameleon assistant can become anyone the customer wants, but this will also raise concerns about ethics. Will our chameleon assistant become a racist? I think at present In this case, it will not be possible, because our model is built based on the gpt api provided by Open AI. Open AI has very strict ethical restrictions on gpt internally, but I noticed an llm called alpaca, developed by Stanford University. . Alpaca is an offline large oracle model, which means that people can maliciously tamper with the model's data set, which raises concerns about AI ethics.
 2. Another suggestion that is often raised is whether we can change the movements and expressions of our robot to suit the character of our choice (such as a history professor, a policeman, or a rapper)? The answer is yes, we can let gpt make the robot react differently based on the emotional value of the selected character. (For example, set the mood value from 1 to 10, with 1 being the least happy and 10 being the happiest. We set the mood index of a history professor who comes home from work to be 3, because she may be very tired after a day of work) With the existing LLM, we can ask ChatGPT to draw inferences and design different expressions and actions for us to correspond to different emotional values.
 
+## Speculation 
+To human experience: The unexpected speed of AI development makes the "digital bespoke era" possible. We believe, in the near future, everything, such as mobile APPs, Smart furniture, will all become bespoke for each individual. Regarding engineering, it does show the hint that a table robot can unconsciously enhance people's sense of time management and boost work efficiency. We think the movement of our table robot can also be fully customized, depending on the user's mood.
+
+## Project Conclusion
+In conclusion, we have explored how to use ChatGPT to self program, and how to connect LLM with a physical model through a microcontroller. We believe this will greatly promote our future works.
+
+
 # Report 14- Week of 11/30/2023
 In this project, I will be responsible for the production of 3D models, the design and assembly of Microcontroller and programming on Particle IDE (including the design of the robot's movements, each movement corresponds to a different number), Weilong Gao will be responsible for the AI voice For the assistant part (including calling APIs, training models, etc.), and sending digital instructions to Photon 2, we will be responsible for completing the video production, and Weilong Gao will be responsible for the pdf production.
 
-# Report 13- Week of 11/23/2023
+## Model Making 
+
+
+
+# Report 13- Week of 11/23/2023 Thanksgiving Week
+
 
 
 # Report 12- Week of 11/16/2023
