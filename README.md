@@ -62,6 +62,16 @@ Now it is time to connect two parts together! I installed the servo and OLED scr
 
 
 # Report 13- Week of 11/23/2023 Thanksgiving Week
+I changed my design direction. After applying to TJ and Jeff, I chose to work with Weilong Gao. We had a new topic, a desktop AI voice assistant robot. The project will consist of two parts: an AI voice assistant, and a desktop robot
+
+## AI Voice Assistant 
+Traditional voice assistants, such as Siri or Alexa, answer questions for customers under a preset situation. However, different customers have different needs. Can we allow customers to set up their voice assistants? What about the personality they want? For example, a strict teacher, or a caring friend? We also noticed that when using ChatGPT, we must first start a conversation with chatgpt before it can respond to our questions. Is there a way for our AI model to start a conversation first?
+
+## Table Robot
+We want to use the fewest parts to achieve the most movements. I made a simple 3D model using Rhino and started to imagine the parts of our microcontroller.
+
+## Summary
+Most of our progress this week stayed at the idea level, because it was Thanksgiving, and I went to New York to spend a perfect Thanksgiving with my friends.
 
 
 
