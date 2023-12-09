@@ -29,6 +29,7 @@ Yo, time's tickin'! In just 10 seconds, you gotta hit the shower, my friend. No 
 Two frequently asked questions are:
 1. With the support of Open AI, our chameleon assistant can become anyone the customer wants, but this will also raise concerns about ethics. Will our chameleon assistant become a racist? I think at present In this case, it will not be possible, because our model is built based on the gpt api provided by Open AI. Open AI has very strict ethical restrictions on gpt internally, but I noticed an llm called alpaca, developed by Stanford University. . Alpaca is an offline large oracle model, which means that people can maliciously tamper with the model's data set, which raises concerns about AI ethics.
 2. Another suggestion that is often raised is whether we can change the movements and expressions of our robot to suit the character of our choice (such as a history professor, a policeman, or a rapper)? The answer is yes, we can let gpt make the robot react differently based on the emotional value of the selected character. (For example, set the mood value from 1 to 10, with 1 being the least happy and 10 being the happiest. We set the mood index of a history professor who comes home from work to be 3, because she may be very tired after a day of work) With the existing LLM, we can ask ChatGPT to draw inferences and design different expressions and actions for us to correspond to different emotional values.
+3. At the end of our showcase, Dr. Kosa gave a short feedback: This year, 7 out of 8 groups are using LLM. I believe this number was 2 last year, and 0 two years ago. We can clearly see the trend of how AI are changing our design thinking. I beleive it is a really interesting point, will AI be the major trend for future design? 
 
 ## Speculation 
 To human experience: The unexpected speed of AI development makes the "digital bespoke era" possible. We believe, in the near future, everything, such as mobile APPs, Smart furniture, will all become bespoke for each individual. Regarding engineering, it does show the hint that a table robot can unconsciously enhance people's sense of time management and boost work efficiency. We think the movement of our table robot can also be fully customized, depending on the user's mood.
@@ -48,7 +49,16 @@ In this project, I will be responsible for the production of 3D models, the desi
 3. 3D打印机会非常的耗时，这对需要不断修改模型的我们来说并不友好
 
 ## Test on Arduino Nano
-即使我最终决定使用的是Particle Photon 2, 但是在一开始的测试阶段我使用的是Arduino Nano,因为Arduino Nano和Photon2在某种程度上非常的相似。
+即使我最终决定使用的是Particle Photon 2, 但是在一开始的测试阶段我使用的是Arduino Nano,因为Arduino Nano和Photon2在某种程度上非常的相似。我使用了两个SG90 9G 的servo, 以及一个小型OLED屏幕。在实验的过程中我发现2个SG90 servo需要5v的电压来支持运转，但是particle photon 2 只能提供3.3v的电压，因此我在jacobs material store购买了额外的电源，四节AA型号的电池。但是OLED屏幕依旧是连接在3.3v的接脚上的。在使用Arduino Nano的测试中，我获得了成功，servo和OLED都在我的指示下正常工作
+
+## Switch to Particle Photon 2
+因为我们的机器人最终需要通过网络连接到我们的AI模型，因此photon2才是我们最终决定使用的microcontroller。在连接上，photon 2和Arduino nano非常的相似，但是我还是根据photon 2的设计图纸对连接做了一些改动。在代码的部分，我发现arduino 的代码和photon代码的底层逻辑虽然是一样的，但是还是要做不少的修改，在zoey的帮助下，我成功找到了对应的library。我认为photon 2对比arduino的优势在：
+1. 可以联网，这允许我们用photon 2制作真正的IoT设计
+2. Particle IDE比Aruino IDE设计的更加好
+3. 算力更强
+
+## Combining Model with Microcontroller 
+Now it is time to connect two parts together! 我将servo和OLED屏幕安装在模型上预设的卡槽中，组装完的模型还是很精致的，透明的模型允许我们看到模型的内部！因为当天是我妈妈的生日，我在OLED屏幕上显示了Happy Birthday Mom, 我妈妈看到了后非常的高兴。
 
 
 # Report 13- Week of 11/23/2023 Thanksgiving Week
