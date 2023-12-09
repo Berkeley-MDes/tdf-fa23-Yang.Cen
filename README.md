@@ -18,7 +18,8 @@ To turn this vision into reality we've created the Chameleon Assistant. It's an 
 
 ## Design Different Movement 4 Our Table Robot
 As mentioned earlier, our table robot will take different actions according to different conversation states. For example, when you speak to the chameleon assistant, the table robot will make a thinking expression "o_O" and slowly nod up and down. When the Chameleon Assistant replies, the table robot will dance happily in front of you! But when there is no command, it will display the current time in SF time zone.
-
+![weekly report](weekly-reports/99.jpg)
+![weekly report](weekly-reports/92.jpg)
 Here is a real conversation scenario:
 Ah, greetings! I am Chameleon Assistant, here to assist and accompany you on your quest for knowledge and assistance. My purpose is to adapt to your desires and adopt a character that suits your preferences. So, dear interlocutor, which character would you prefer I adopt? (Table Robot Dancing)
 Could you please be a rap star? (Table Robot Thinking)
@@ -27,6 +28,7 @@ Yo, yo, yo! What's poppin', my friend? They call me MC Chameleon, the rhyme-spit
 Please remind me in 10 seconds that I need to go to take a shower. (Table Robot Thinking)
 Yo, time's tickin'! In just 10 seconds, you gotta hit the shower, my friend. No time to waste, no excuses to linger. Get yourself clean, stay fresh and crisp. The countdown starts now, so make a move and get the water drippin'. Peace out! 10... 9... 8... 7... 6... 5... 4... 3... 2... 1... Shower time! (While waiting, Table Robot in Standing By Mode)
 ![weekly report](weekly-reports/100.jpg)
+
 ## Final Showcase Feedback
 Two frequently asked questions are:
 1. With the support of Open AI, our chameleon assistant can become anyone the customer wants, but this will also raise concerns about ethics. Will our chameleon assistant become a racist? I think at present In this case, it will not be possible, because our model is built based on the gpt api provided by Open AI. Open AI has very strict ethical restrictions on gpt internally, but I noticed an llm called alpaca, developed by Stanford University. . Alpaca is an offline large oracle model, which means that people can maliciously tamper with the model's data set, which raises concerns about AI ethics.
@@ -38,6 +40,9 @@ To human experience: The unexpected speed of AI development makes the "digital b
 
 ## Project Conclusion
 In conclusion, we have explored how to use ChatGPT to self program, and how to connect LLM with a physical model through a microcontroller. We believe this will greatly promote our future works.
+![weekly report](weekly-reports/87.jpg)
+![weekly report](weekly-reports/88.jpg)
+![weekly report](weekly-reports/89.jpg)
 
 
 # Report 14- Week of 11/30/2023
@@ -49,18 +54,27 @@ The reasons why I don’t use 3D printing are:
 1. I want a transparent model to help users see the internal mechanical structure
 2. The models printed by Jacobs Maker Space’s 3D printer are not refined enough.
 3. 3D printing will be very time-consuming, which is not friendly to us who need to constantly modify the model.
+![weekly report](weekly-reports/81.jpg)
+![weekly report](weekly-reports/90.jpg)
 
 ## Test on Arduino Nano
 Even though I finally decided to use the Particle Photon 2, I used an Arduino Nano during the initial testing phase because the Arduino Nano and Photon 2 are very similar to some extent. I used two SG90 9G servos, and a small OLED screen. During the experiment, I found that two SG90 servos require a voltage of 5v to support operation, but the particle photon 2 can only provide a voltage of 3.3v, so I purchased an additional power supply from Jacobs material store, four AA batteries. But the OLED screen is still connected to the 3.3v. In tests using Arduino Nano I had success, both servos and OLED worked fine under my instructions
+![weekly report](weekly-reports/84.jpg)
+![weekly report](weekly-reports/85.jpg)
+![weekly report](weekly-reports/86.jpg)
 
 ## Switch to Particle Photon 2
 Because our robot ultimately needs to be connected to our AI model through the network, photon 2 is the microcontroller we finally decided to use. In terms of connection, photon 2 and Arduino nano are very similar, but I still made some changes in the connection based on the design drawings of photon 2. In the code part, I found that although the underlying logic of the arduino code and the photon code are the same, a lot of modifications are still needed. With the help of Zoey, I successfully found the corresponding library. I think the advantages of photon 2 compared to arduino are:
 1. Can be connected to the Internet, which allows us to use photon 2 to make real IoT designs
 2. Particle IDE is better designed than Aruino IDE
 3. Stronger computing power
+![weekly report](weekly-reports/96.jpg)
+![weekly report](weekly-reports/93.jpg)
 
 ## Combining Model with Microcontroller 
 Now it is time to connect two parts together! I installed the servo and OLED screen in the preset slots on the model. The assembled model is still very delicate. The transparent model allows us to see the inside of the model! Because it was my mother’s birthday that day, I displayed Happy Birthday Mom on the OLED screen. My mother was very happy when she saw it.
+![weekly report](weekly-reports/101.jpg)
+![weekly report](weekly-reports/97.jpg)
 
 
 # Report 13- Week of 11/23/2023 Thanksgiving Week
@@ -71,7 +85,8 @@ Traditional voice assistants, such as Siri or Alexa, answer questions for custom
 
 ## Table Robot
 We want to use the fewest parts to achieve the most movements. I made a simple 3D model using Rhino and started to imagine the parts of our microcontroller.
-
+![weekly report](weekly-reports/83.jpg)
+![weekly report](weekly-reports/82.jpg)
 ## Summary
 Most of our progress this week stayed at the idea level, because it was Thanksgiving, and I went to New York to spend a perfect Thanksgiving with my friends.
 
