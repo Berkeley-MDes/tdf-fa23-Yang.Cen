@@ -1,8 +1,21 @@
 # Report 16- Week of 12/14/2023
+Guess where we are? We are at Wakiki Beach in Hawaii!
+After the final showcase, we summarized all the processes and details of the project and produced our summary report (PDF)
 
 # Report 15- Week of 12/07/2023
+Towards the end of the project, weilong gao and I combined our two production parts, and now we have our smart voice assistant, Chameleon Assistant!
+Please watch our video! 
+
+As mentioned earlier, our desktop robot will take different actions according to different conversation states. For example, when you speak to the chameleon assistant, the desktop robot will make a thinking expression "o_O" and slowly nod up and down. When the Chameleon Assistant replies, the desktop robot will dance happily in front of you! But when there is no command, it will display the current time.
+Here is a real conversation scenario:
+
+
+Two frequently asked questions are:
+1. With the support of Open AI, our chameleon assistant can become anyone the customer wants, but this will also raise concerns about ethics. Will our chameleon assistant become a racist? I think at present In this case, it will not be possible, because our model is built based on the gpt api provided by Open AI. Open AI has very strict ethical restrictions on gpt internally, but I noticed an llm called alpaca, developed by Stanford University. . Alpaca is an offline large oracle model, which means that people can maliciously tamper with the model's data set, which raises concerns about AI ethics.
+2. Another suggestion that is often raised is whether we can change the movements and expressions of our robot to suit the character of our choice (such as a history professor, a policeman, or a rapper)? The answer is yes, we can let gpt make the robot react differently based on the emotional value of the selected character. (For example, set the mood value from 1 to 10, with 1 being the least happy and 10 being the happiest. We set the mood index of a history professor who comes home from work to be 3, because she may be very tired after a day of work) With the existing LLM, we can ask ChatGPT to draw inferences and design different expressions and actions for us to correspond to different emotional values.
 
 # Report 14- Week of 11/30/2023
+In this project, I will be responsible for the production of 3D models, the design and assembly of Microcontroller and programming on Particle IDE (including the design of the robot's movements, each movement corresponds to a different number), Weilong Gao will be responsible for the AI voice For the assistant part (including calling APIs, training models, etc.), and sending digital instructions to Photon 2, we will be responsible for completing the video production, and Weilong Gao will be responsible for the pdf production.
 
 # Report 13- Week of 11/23/2023
 
