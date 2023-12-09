@@ -8,6 +8,8 @@ We are still working to make our Project 2 better!
 # Report 15- Week of 12/07/2023
 Towards the end of the project, weilong gao and I combined our two production parts, and now we have our smart voice assistant, Chameleon Assistant!
 Please watch our video! https://www.youtube.com/watch?v=zMBSnCiyt1o
+![weekly report](weekly-reports/95.jpg)
+![weekly report](weekly-reports/91.jpg)
 
 ## Refined Project Description 
 Hi there
@@ -24,7 +26,7 @@ Yo, yo, yo! What's poppin', my friend? They call me MC Chameleon, the rhyme-spit
 
 Please remind me in 10 seconds that I need to go to take a shower. (Table Robot Thinking)
 Yo, time's tickin'! In just 10 seconds, you gotta hit the shower, my friend. No time to waste, no excuses to linger. Get yourself clean, stay fresh and crisp. The countdown starts now, so make a move and get the water drippin'. Peace out! 10... 9... 8... 7... 6... 5... 4... 3... 2... 1... Shower time! (While waiting, Table Robot in Standing By Mode)
-
+![weekly report](weekly-reports/100.jpg)
 ## Final Showcase Feedback
 Two frequently asked questions are:
 1. With the support of Open AI, our chameleon assistant can become anyone the customer wants, but this will also raise concerns about ethics. Will our chameleon assistant become a racist? I think at present In this case, it will not be possible, because our model is built based on the gpt api provided by Open AI. Open AI has very strict ethical restrictions on gpt internally, but I noticed an llm called alpaca, developed by Stanford University. . Alpaca is an offline large oracle model, which means that people can maliciously tamper with the model's data set, which raises concerns about AI ethics.
