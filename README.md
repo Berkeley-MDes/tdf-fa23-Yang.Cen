@@ -4,6 +4,8 @@ After the final showcase, we summarized all the processes and details of the pro
 
 ## Refining Project 2 
 We are still working to make our Project 2 better! 
+![weekly report](weekly-reports/手绘.png)
+
 
 # Report 15- Week of 12/07/2023
 Towards the end of the project, weilong gao and I combined our two production parts, and now we have our smart voice assistant, Chameleon Assistant!
